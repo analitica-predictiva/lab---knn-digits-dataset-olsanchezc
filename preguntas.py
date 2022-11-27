@@ -29,6 +29,7 @@ def pregunta_01():
     print(digits.target.shape)
 
 
+
 def pregunta_02():
     """
     Complete el código presentado a continuación.
